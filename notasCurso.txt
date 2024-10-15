@@ -6,3 +6,6 @@ Página para calcular la especificidad de elementos de html
 
 Página con guías de CSS
 - https://css-tricks.com/
+
+Página para seleccionar colores
+https://htmlcolorcodes.com/

@@ -1,2 +1,8 @@
 Página para revisar tipo de display de cada elemento de html
-- htmlreference.io
+- https://htmlreference.io/
+
+Página para calcular la especificidad de elementos de html
+- https://specificity.keegan.st/
+
+Página con guías de CSS
+- https://css-tricks.com/

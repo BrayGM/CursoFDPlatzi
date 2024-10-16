@@ -8,4 +8,7 @@ Página con guías de CSS
 - https://css-tricks.com/
 
 Página para seleccionar colores
-https://htmlcolorcodes.com/
+- https://htmlcolorcodes.com/
+
+Página para revisar funcionamiento de propidades CSS
+- https://cssreference.io/

@@ -12,3 +12,6 @@ Página para seleccionar colores
 
 Página para revisar funcionamiento de propidades CSS
 - https://cssreference.io/
+
+Página guia de diseño 
+- https://polaris.shopify.com/design
